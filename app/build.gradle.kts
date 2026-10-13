@@ -6,8 +6,8 @@ plugins {
 android {
     namespace = "com.nidheesh.ci_cddemo"
     compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
+        version = release(37) {
+            minorApiLevel = 0
         }
     }
 
