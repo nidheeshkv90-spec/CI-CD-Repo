@@ -43,7 +43,7 @@ fun HomeScreen(onLogin: (String, String) -> Unit) {
                 .fillMaxWidth()
                 .padding(16.dp)
         ) {
-            Text(text = "Login to continue")
+            Text(text = "Feature 7")
         }
         Spacer(modifier = Modifier.height(16.dp))
         Button(
