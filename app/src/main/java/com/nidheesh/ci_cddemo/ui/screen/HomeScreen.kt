@@ -51,7 +51,7 @@ fun HomeScreen(onLogin: (String, String) -> Unit) {
                 .fillMaxWidth()
                 .padding(16.dp)
         ) {
-            Text(text = "SIGN UP")
+            Text(text = "Feature 8")
         }
 
     }
